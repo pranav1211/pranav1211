@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pranav Veeraghanta, 18
+- 👋 Hi, I’m Pranav Veeraghanta, 19
 - 👀 I’m studying first year computer science engineering as of 2022
 - 🌱 I’m currently learning Python, C/C++ and Javascript
 - 📫 How to reach me - you can reach me on twitter.com/pranavisda1 and on Linkedin
