@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pranav Veeraghanta, 19
+- 👋 Hi, I’m Pranav Veeraghanta, 20
 - 👀 I’m currently pursuing a bachelors in Artificial intelligence and Machine Learning
 - 🌱 My areas of interest are Machine Learning and Web development
 - 📫 I know Python, C/C++, Java, HTML, CSS, JS and NodeJS
