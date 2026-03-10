@@ -15,25 +15,14 @@
 * 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
 * 🧠 Interested in **Machine Learning, AI Systems, and Web Development**
 * 🚀 I enjoy building tools that combine **AI with practical real-world applications**
-* ✍️ I write about projects, tech, films, and experiences on my blog
+* ✍️ I write about projects, tech, films, formula 1, and experiences on my blog
 * 🌐 **Beyond Me Btw** acts as both my **portfolio and creative space**
 
 ---
-
-### 🧠 Current Interests
-
-* Machine Learning
-* Multimodal AI
-* Intelligent systems
-* Web platforms
-* AI + real world problem solving
-
----
-
 ### 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,linux,nodejs" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,vue,nodejs,git,linux,nginx,vercel,figma,ps,ai&perline=9" />
 </p>
 
 **Languages**
