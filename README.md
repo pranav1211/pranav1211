@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranav Veeraghanta</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Machine+Learning+Enthusiast;Web+Developer;Builder+%26+Writer&center=true&width=500&height=45">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=000000&background=ECFFFC00&center=true&vCenter=true&multiline=true&width=435&lines=AI%26ML+Student;Web+Developer;Blogger+and+Creator)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
-  <a href="https://beyondmebtw.com">🌐 Blog</a> •
-  <a href="https://github.com/pranav1211">💻 GitHub</a>
+  <a href="https://beyondmebtw.com">🌐 Blog</a> •  
 </p>
 
 ---
