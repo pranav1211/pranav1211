@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
+* 🎓 21, Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
 * 🧠 Interested in **Machine Learning, AI Systems, and Web Development**
 * 🚀 I enjoy building tools that combine **AI with practical real-world applications**
 * ✍️ I write about projects, tech, films, formula 1, and experiences on my blog
-* 🌐 **Beyond Me Btw** acts as both my **portfolio and creative space**
+* 🌐 My blog **Beyond Me Btw** acts as both my **portfolio and creative space**
 
 ---
 ### 🛠️ Tech Stack
