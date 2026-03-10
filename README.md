@@ -3,10 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=000000&background=ECFFFC00&center=true&vCenter=true&width=435&lines=AI%26ML+Student;Web+Developer;Blogger+and+Creator" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://beyondmebtw.com">🌐 Blog</a> •  
-</p>
-
 ---
 
 ### 👨‍💻 About Me
