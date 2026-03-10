@@ -1,8 +1,88 @@
-- 👋 Hi, I’m Pranav Veeraghanta, 21
-- 👀 I’m currently pursuing a bachelors in Artificial intelligence and Machine Learning
-- 🌱 My areas of interest are Machine Learning and Web development
-- 📫 I know Python, C/C++, Java, HTML, CSS, JS, and various other tools
-- Check out my Blog - Beyondmebtw.com , It serves as a portfolio for all my projects and skills!
+https://readme-typing-svg.herokuapp.com
+<h1 align="center">Hi 👋, I'm Pranav Veeraghanta</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Machine+Learning+Enthusiast;Web+Developer;Builder+%26+Writer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <a href="https://beyondmebtw.com">🌐 Blog</a> •
+  <a href="https://github.com/pranav1211">💻 GitHub</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
+* 🧠 Interested in **Machine Learning, AI Systems, and Web Development**
+* 🚀 I enjoy building tools that combine **AI with practical real-world applications**
+* ✍️ I write about projects, tech, films, and experiences on my blog
+* 🌐 **Beyond Me Btw** acts as both my **portfolio and creative space**
+
+---
+
+### 🧠 Current Interests
+
+* Machine Learning
+* Multimodal AI
+* Intelligent systems
+* Web platforms
+* AI + real world problem solving
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,linux,nodejs" />
+</p>
+
+**Languages**
+
+* Python
+* C / C++
+* Java
+* JavaScript
+
+**Web**
+
+* HTML
+* CSS
+* JavaScript
+* Nginx
+
+**Tools & Platforms**
+
+* Git
+* Linux / Ubuntu
+* Vector Based Illustrators
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pranav1211&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1211&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+🌐 Blog: https://beyondmebtw.com
+💻 GitHub: https://github.com/pranav1211
+
+---
+
+### ✨ Philosophy
+
+> I like to build things that matter and sound cool, document the journey, and keep refining the craft.
+
+<p align="center">
+  <img src="https://github.com/pranav1211/pranav1211/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 <!---
 pranav1211/pranav1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
