@@ -1,4 +1,3 @@
-https://readme-typing-svg.herokuapp.com
 <h1 align="center">Hi 👋, I'm Pranav Veeraghanta</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Machine+Learning+Enthusiast;Web+Developer;Builder+%26+Writer&center=true&width=500&height=45">
