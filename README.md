@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,vue,nodejs,git,linux,nginx,vercel,figma,ps,ai,anaconda,blender,docker,firebase,flask,idea,kotlin,matlab,mongodb,npm,nuxtjs,obsidian,opencv,pinia,postman,react,vercel,vscode,wasm,ubuntu,raspberrypi&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,vue,nodejs,git,linux,nginx,vercel,figma,ps,ai,anaconda,blender,docker,firebase,flask,idea,kotlin,matlab,mongodb,npm,nuxtjs,obsidian,opencv,pinia,postman,react,vercel,vscode,wasm,ubuntu,raspberrypi&perline=12" />
 </p>
 
 ---
