@@ -26,7 +26,7 @@
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pranav1211&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1211&layout=compact&theme=tokyonight&hide=cpp,jupyter%20notebook"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1211&layout=compact&theme=tokyonight&hide=c%2B%2B,c,jupyter%20notebook"/>
 </p>
 
 ---
