@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 21, Pursuing **B.E in Artificial Intelligence & Machine Learning**
+* 🎓 22, Graduated with a **B.E. in Artificial Intelligence & Machine Learning**, securing a **First Class with Distinction.**
 * 🧠 Interested in **Machine Learning, AI Systems, and Web Development**
 * 🚀 I enjoy building tools that combine **AI with practical real-world applications**
 * ✍️ I write about projects, tech, films, formula 1, and experiences on my blog
-* 🌐 My blog **Beyond Me Btw** acts as both my **portfolio and creative space**
+* 🌐 My blog **Beyond Me Btw** acts as both my **creative space and portfolio**
 
 ---
 ### 🛠️ Tech Stack
