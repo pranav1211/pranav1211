@@ -20,8 +20,10 @@
 
 ## 📍 Now
 
-- 🔨 Building **Beyond Money** (personal finance, Vue) and **minis** (small tools for the blog)
-- 📝 Writing race-by-race recaps of the 2026 Formula 1 season
+- 🔨 Building a **Medium stats dashboard** and a **Medium blog downloader**
+- 🔒 Building **BLock** — an app lock for Android. Your apps, your privacy, your control
+- 🌐 Upgrading [beyondmebtw.com](https://beyondmebtw.com) — the blog, its content server, and the tooling around it
+- 📝 Writing Formula 1 race recaps, movie & TV reviews, and minis
 - 🧪 Tinkering with OAK-D depth cameras on Android
 
 ## 🛠️ Tech Stack
