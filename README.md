@@ -24,32 +24,6 @@
 - 📝 Writing race-by-race recaps of the 2026 Formula 1 season
 - 🧪 Tinkering with OAK-D depth cameras on Android
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/pranav1211/Beyondmebtw"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=Beyondmebtw&theme=tokyonight&hide_border=true" alt="Beyondmebtw" /></a>
-  <a href="https://github.com/pranav1211/bmb-content-server"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=bmb-content-server&theme=tokyonight&hide_border=true" alt="bmb-content-server" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/pranav1211/My-Library"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=My-Library&theme=tokyonight&hide_border=true" alt="My-Library" /></a>
-  <a href="https://github.com/pranav1211/mynyl"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=mynyl&theme=tokyonight&hide_border=true" alt="mynyl" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/pranav1211/beyond-money-public"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=beyond-money-public&theme=tokyonight&hide_border=true" alt="beyond-money-public" /></a>
-  <a href="https://github.com/pranav1211/depthaiandroidfull"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=pranav1211&repo=depthaiandroidfull&theme=tokyonight&hide_border=true" alt="depthaiandroidfull" /></a>
-</p>
-
-## ✍️ Latest Posts
-
-<!-- BLOG-POST-LIST:START -->- [The 2026 Mexico City Grand Prix Recap](https://medium.com/@beyondmebtw/the-2026-mexico-city-grand-prix-recap-b279dd94a566?source=rss-f17ad717fd85------2) — Nov 07, 2026
-- [The 2026 United States Grand Prix Recap](https://medium.com/@beyondmebtw/the-2026-united-states-grand-prix-recap-1bbbdb3a89f5?source=rss-f17ad717fd85------2) — Oct 30, 2026
-- [Clayface Movie Review](https://medium.com/@beyondmebtw/clayface-movie-review-d7b839e7c7c3?source=rss-f17ad717fd85------2) — Oct 26, 2026
-- [The 2026 Singapore Grand Prix Recap](https://medium.com/@beyondmebtw/the-2026-singapore-grand-prix-recap-393636855f7f?source=rss-f17ad717fd85------2) — Oct 22, 2026
-- [The 2026 Malaysian Grand Prix Recap](https://medium.com/@beyondmebtw/the-2026-malaysian-grand-prix-recap-ab5ec8a5d60c?source=rss-f17ad717fd85------2) — Oct 14, 2026
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More on beyondmebtw.com](https://beyondmebtw.com/blog)
-
 ## 🛠️ Tech Stack
 
 **Build with**
